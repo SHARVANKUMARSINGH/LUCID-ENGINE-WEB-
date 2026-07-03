@@ -1,1 +1,31 @@
-
+{
+  "name": "lucid-engine-web",
+  "version": "1.0.0",
+  "description": "An ultra powerful AA game engine for the web.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHARVANKUMARSINGH/LUCID-ENGINE-WEB-.git"
+  },
+  "keywords": [
+    "game-engine",
+    "webgl",
+    "playcanvas",
+    "monaco-editor",
+    "aa-engine"
+  ],
+  "author": "Sharvan Kumar Singh",
+  "license": "MIT",
+  "dependencies": {
+    "monaco-editor": "^0.45.0",
+    "playcanvas": "^1.65.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
