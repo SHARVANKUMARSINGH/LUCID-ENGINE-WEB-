@@ -1,6 +1,7 @@
 /**
  * Renderer manages the PlayCanvas WebGL context and core scene setup.
  */
+import * as pc from 'playcanvas';
 export class Renderer {
     constructor(canvasId) {
         // 1. Grab the canvas from your index.html

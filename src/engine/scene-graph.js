@@ -2,6 +2,7 @@
  * SceneGraph manages the creation, deletion, and hierarchy of all game objects.
  * It serves as the bridge between the PlayCanvas engine and your UI Explorer.
  */
+import * as pc from 'playcanvas';
 export class SceneGraph {
     constructor(app) {
         this.app = app;
