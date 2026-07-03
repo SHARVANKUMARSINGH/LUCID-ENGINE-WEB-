@@ -22,8 +22,8 @@
   "author": "Sharvan Kumar Singh",
   "license": "MIT",
   "dependencies": {
-    "monaco-editor": "^0.45.0",
-    "playcanvas": "^1.65.0"
+    "@babylonjs/core": "^9.15.0",
+    "monaco-editor": "^0.45.0"
   },
   "devDependencies": {
     "vite": "^5.0.0"
